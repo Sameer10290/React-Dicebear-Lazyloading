@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "owner": "David Marcu",
+            "imageUrl": "https://avatars.dicebear.com/api/male/david.svg"
+        },
+        {
+            "owner": "Anthony Padilla",
+            "imageUrl": "https://avatars.dicebear.com/api/male/anthony.svg"
+        },
+        {
+            "owner": "Gwen Stacy",
+            "imageUrl": "https://avatars.dicebear.com/api/female/gwen.svg"
+        },
+        {
+            "owner": "Jonathon Joester",
+            "imageUrl": "https://avatars.dicebear.com/api/male/jonathon.svg"
+        },
+        {
+            "owner": "Kaedehara Kazuha",
+            "imageUrl": "https://avatars.dicebear.com/api/gridy/kazuha.svg"
+        },
+        {
+            "owner": "Kamisato Ayaka",
+            "imageUrl": "https://avatars.dicebear.com/api/female/ayaka.svg"
+        },
+        {
+            "owner": "Ajax",
+            "imageUrl": "https://avatars.dicebear.com/api/jdenticon/ajax.svg"
+        },
+        {
+            "owner": "Jean",
+            "imageUrl": "https://avatars.dicebear.com/api/female/bottts.svg"
+        },
+        {
+            "owner": "Kujou Sara",
+            "imageUrl": "https://avatars.dicebear.com/api/female/sara.svg"
+        },
+        {
+            "owner": "Natsu Dragneel",
+            "imageUrl": "https://avatars.dicebear.com/api/identicon/natsu.svg"
+        },
+        {
+            "owner": "Lucy",
+            "imageUrl": "https://avatars.dicebear.com/api/female/lucy.svg"
+        },
+        {
+            "owner": "Sameer Sayed",
+            "imageUrl": "https://avatars.dicebear.com/api/male/sameer.svg"
+        },
+        {
+            "owner": "Madiha Shah",
+            "imageUrl": "https://avatars.dicebear.com/api/female/madiha.svg"
+        },
+        {
+            "owner": "Miyamura",
+            "imageUrl": "https://avatars.dicebear.com/api/micah/miyamura.svg"
+        },
+        {
+            "owner": "Gol D Rogers",
+            "imageUrl": "https://avatars.dicebear.com/api/human/rogers.svg"
+        }
+    ]
+}
